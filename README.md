@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | Frontend Specialist | Mobile Developer</h3>
-<p align="center">🇺🇸 English | 🇲🇽 Spanish Native</p>
+<p align="center">🇺🇸 English B2 | 🇲🇽 Spanish Native</p>
 
 <div align="center">
   
@@ -21,7 +21,7 @@ const sebastian = {
     location: "San Miguel de Allende 🇲🇽",
     role: "Full Stack Developer",
     focus: "Frontend & Mobile Development",
-    currentlyWorking: "Arcana @ Techvision",
+    currentlyWorking: "Techvision",
     languages: ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "Swift"],
     spokenLanguages: ["Spanish (Native)", "English (B2)"],
     interests: ["AI", "WebSockets", "Real-time Apps", "Computer Vision", "UX/UI Design"],
