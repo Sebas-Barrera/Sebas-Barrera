@@ -25,7 +25,7 @@ Full Stack Developer con enfoque en frontend, especializado en crear soluciones 
 **Mobile:** Flutter • Swift • Ionic  
 
 ### 📊 GitHub Stats
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical](https://github.com/Sebas-Barrera))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebas-Barrera&show_icons=true&theme=radical)
 
 ---
 📍 San Miguel de Allende, Guanajuato 🇲🇽
