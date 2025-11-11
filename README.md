@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Sebastián Barrera</h1>
+<h3 align="center">Ingeniero en Sistemas | Full Stack Developer | Frontend Specialist</h3>
 
-<!--
-**Sebas-Barrera/Sebas-Barrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:fajardosebas132@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/tu-perfil">LinkedIn</a> •
+  <a href="tel:+528148121542">+52 814 812 1542</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Sobre mí
+Full Stack Developer con enfoque en frontend, especializado en crear soluciones web y móviles escalables. Experiencia en desarrollo con Angular, React Native, y arquitecturas backend con Node.js y Python.
+
+### 🚀 Experiencia Destacada
+- **Detección de Armas con IA** - App móvil con React Native + Python para seguridad en tiempo real
+- **Tispterzone** - Plataforma web con Angular 19 + Node.js 20 + Stripe
+- **Arcana** - App móvil con Expo + Supabase
+
+### 🛠️ Tech Stack
+
+**Frontend:** Angular • Vue.js • Next.js • React Native  
+**Backend:** Node.js • Python • PHP • Laravel • .NET  
+**Databases:** PostgreSQL • MySQL • MongoDB • Supabase  
+**Mobile:** Flutter • Swift • Ionic  
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical)
+
+---
+📍 San Miguel de Allende, Guanajuato 🇲🇽
