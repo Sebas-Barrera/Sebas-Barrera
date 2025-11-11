@@ -3,6 +3,7 @@
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | Frontend Specialist | Mobile Developer</h3>
+<p align="center">🇺🇸 English | 🇲🇽 Spanish Native</p>
 
 <div align="center">
   
@@ -14,7 +15,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 👨‍💻 About Me
 ```typescript
 const sebastian = {
     location: "San Miguel de Allende 🇲🇽",
@@ -22,22 +23,23 @@ const sebastian = {
     focus: "Frontend & Mobile Development",
     currentlyWorking: "Arcana @ Techvision",
     languages: ["JavaScript", "TypeScript", "Python", "PHP", "Dart", "Swift"],
-    interests: ["IA", "WebSockets", "Real-time Apps", "Computer Vision", "UX/UI Design"],
+    spokenLanguages: ["Spanish (Native)", "English (B2)"],
+    interests: ["AI", "WebSockets", "Real-time Apps", "Computer Vision", "UX/UI Design"],
     aiPoweredDev: true
 };
 ```
 
-### 🔥 Proyectos Destacados
+### 🔥 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔫 Detección de Armas con IA</h3>
+<h3 align="center">🔫 AI Weapon Detection</h3>
 <div align="center">
 <p>
 <b>React Native · Python · WebSockets · Google Maps</b>
 </p>
-<p>App móvil de seguridad en tiempo real con visión por computadora. Sistema de alertas y rutas seguras georreferenciadas.</p>
+<p>Real-time security mobile app with computer vision. Georeferenced alert system and safe routes.</p>
 </div>
 </td>
 
@@ -47,7 +49,7 @@ const sebastian = {
 <p>
 <b>Angular 19 · Node.js 20 · PostgreSQL · Stripe</b>
 </p>
-<p>Plataforma web responsive con integración de pagos. Diseño UX/UI con Tailwind y SCSS.</p>
+<p>Responsive web platform with payment integration. UX/UI design with Tailwind and SCSS.</p>
 </div>
 </td>
 </tr>
@@ -59,7 +61,7 @@ const sebastian = {
 <p>
 <b>Expo · Supabase · Stripe</b>
 </p>
-<p>App móvil multiplataforma con backend en tiempo real y sistema de pagos integrado.</p>
+<p>Cross-platform mobile app with real-time backend and integrated payment system.</p>
 </div>
 </td>
 
@@ -69,13 +71,13 @@ const sebastian = {
 <p>
 <b>Angular · .NET · WebSockets</b>
 </p>
-<p>Chat en tiempo real con comunicación bidireccional. Sistema de salas y mensajería instantánea.</p>
+<p>Real-time chat with bidirectional communication. Room system and instant messaging.</p>
 </div>
 </td>
 </tr>
 </table>
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Tech Stack
 
 #### Frontend Frameworks
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
